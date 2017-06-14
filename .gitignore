@@ -1,0 +1,7 @@
+node_modules
+.editorconfig
+package-lock.json
+src/main.js
+src/main.js.map
+src/app/**/*.js
+src/app/**/*.js.map
